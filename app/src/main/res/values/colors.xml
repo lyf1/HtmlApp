@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      
+    <color name="ashen">#cfdae4</color>
+    <color name="ashen1">#eff1f4</color>
+    <color name="black">#1a1b1b</color>
+    <color name="yellow">#cadf0d</color>
+    <color name="blue">#2a79ce</color>
+    <color name="green">#41c1ab</color>
+    <color name="pick">#c235ab</color>
+    <!--<color name="colorPrimary"></color>
+    <color name="colorPrimaryDark"></color>
+     <color name="colorAccent"></color>-->
+         <color name="colorPrimary">#009688</color>
+         <color name="colorPrimaryDark">#00796B</color>
+         <color name="colorAccent">#009688</color>
+         <color name="textColorPrimary">#616161</color>
+         <color name="viewBackground">@android:color/white</color>
+         <color name="red">#f1061e</color>
+
+         
+
+</resources>

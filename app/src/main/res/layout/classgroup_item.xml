@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:id="@+id/cg_all"
+    android:orientation="vertical"
+    >
+    <com.zhy.autolayout.AutoLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        >
+        <View
+            android:id="@+id/cg_view"
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:background="@color/blue"
+
+            ></View>
+    <TextView
+         android:id="@+id/cg_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="text"
+        android:gravity="center"
+         android:paddingTop="10dp"
+         android:paddingBottom="10dp"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        />
+    </com.zhy.autolayout.AutoLinearLayout>
+     <View
+         android:layout_width="match_parent"
+         android:layout_height="2dp"
+         android:background="@color/white"></View>
+</com.zhy.autolayout.AutoLinearLayout>
